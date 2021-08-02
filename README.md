@@ -1,1 +1,1 @@
-# TypeScriot_React
+# TypeScript_React
